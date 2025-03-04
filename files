@@ -1,1 +1,261 @@
+﻿id,film_id,film,character_id,Characters,Actor,phase_id
+1,1,Iron Man,1,"Robert Downey ,Jr.",Tony Stark/Iron Man,1
+2,1,Iron Man,2,Terrence Howard,Rhodey,1
+3,1,Iron Man,3,Jeff Bridges,Obadiah Stane,1
+4,1,Iron Man,4,Gwyneth Paltrow,"Virginia ""Pepper"" Potts",1
+5,2,The Incredible Hulk,5,Edward Norton,Bruce Banner,1
+6,3,Iron Man 2,6,"Robert Downey, Jr.",Tony Stark,1
+7,3,Iron Man 2,7,Gwyneth Paltrow,Pepper Potts,1
+8,3,Iron Man 2,8,Scarlett Johansson,Natalie Rushman/Natasha Romanoff,1
+9,3,Iron Man 2,9,Don Cheadle,"Lt. Col. James ""Rhodey"" Rhodes",1
+10,3,Iron Man 2,10,Mickey Rourke,Ivan Vanko,1
+11,4,Thor,11,Chris Hemsworth,Thor,1
+12,4,Thor,12,Natalie Portman,Jane Foster,1
+13,4,Thor,13,Tom Hiddleston,Loki,1
+14,4,Thor,14,Anthony Hopkins,Odin,1
+15,4,Thor,15,Idris Elba,Heimdall,1
+16,5,Captain America: The First Avenger,16,Chris Evans,Steve Rogers / Captain America,1
+17,5,Captain America: The First Avenger,17,Tommy Lee Jones,Chester Philips,1
+18,5,Captain America: The First Avenger,18,Sebastian Stan,Bucky Barnes,1
+19,5,Captain America: The First Avenger,19,Hayley Atwell,Peggy Carter,1
+20,6,The Avengers,20,Tom Hiddleston,Loki,1
+21,7,Iron Man 3,21,"Robert Downey, Jr.",Tony Stark/Iron Man,2
+22,7,Iron Man 3,22,Gwyneth Paltrow,Pepper Potts,2
+23,7,Iron Man 3,23,Don Cheadle,James 'Rhodey' Rhodes,2
+24,7,Iron Man 3,24,Guy Pearce,Aldrich Killian,2
+25,7,Iron Man 3,25,Ben Kingsley,The Mandarin,2
+26,8,Thor: The Dark World,26,Chris Hemsworth,Thor,2
+27,8,Thor: The Dark World,27,Natalie Portman,Jane Foster,2
+28,8,Thor: The Dark World,28,Tom Hiddleston,Loki,2
+29,8,Thor: The Dark World,29,Anthony Hopkins,Odin,2
+30,8,Thor: The Dark World,30,Idris Elba,Heimdall,2
+31,8,Thor: The Dark World,31,Christopher Eccleston,Malekith the Accursed,2
+32,8,Thor: The Dark World,32,Jaimie Alexander,Sif,2
+33,9,Captain America: The Winter Soldier,33,Chris Evans,Captain America/Steve Rogers,2
+34,9,Captain America: The Winter Soldier,34,Scarlett Johansson,Natasha Romanoff/Black Widow,2
+35,9,Captain America: The Winter Soldier,35,Sebastian Stan,Bucky Barnes/Winter Soldier,2
+36,9,Captain America: The Winter Soldier,36,Robert Redford,Agent Alexander Pierce,2
+37,9,Captain America: The Winter Soldier,37,Samuel L. Jackson,Nick Fury,2
+38,10,Guardians of the Galaxy,38,Chris Pratt,Peter Quill,2
+39,10,Guardians of the Galaxy,39,Zoe Saldana,Gamora,2
+40,10,Guardians of the Galaxy,40,Dave Bautista,Drax,2
+41,10,Guardians of the Galaxy,41,Vin Diesel,Groot,2
+42,10,Guardians of the Galaxy,42,Bradley Cooper,Rocket,2
+43,11,Avengers: Age of Ultron,43,James Spader,Ultron,2
+44,12,Ant-Man,44,Paul Rudd,Scott Lang / Ant-Man,2
+45,12,Ant-Man,45,Evangeline Lilly,Hope Van Dyne,2
+46,12,Ant-Man,46,Corey Stoll,Darren Cross / Yellowjacket,2
+47,12,Ant-Man,47,Bobby Cannavale,Paxton,2
+48,12,Ant-Man,48,Michael Peña,Luis,2
+49,12,Ant-Man,49,Michael Douglas,Dr Hank Pym / Ant-Man,2
+50,13,Captain America: Civil War,50,Chris Evans,Steve Rogers/Captain America,3
+51,13,Captain America: Civil War,51,"Robert Downey, Jr.",Tony Stark/Iron Man,3
+52,13,Captain America: Civil War,52,Scarlett Johansson,Natasha Romanoff / Black Widow,3
+53,13,Captain America: Civil War,53,Sebastian Stan,Bucky Barnes/Winter Soldier,3
+54,13,Captain America: Civil War,54,Jeremy Renner,Clint Barton/Hawkeye,3
+55,13,Captain America: Civil War,55,Don Cheadle,James Rhodes/War Machine,3
+56,13,Captain America: Civil War,56,Anthony Mackie,Sam Wilson/Falcon,3
+57,13,Captain America: Civil War,57,Paul Bettany,Vision,3
+58,13,Captain America: Civil War,58,Elizabeth Olsen,Wanda Maximoff/Scarlet Witch,3
+59,13,Captain America: Civil War,59,Chadwick Boseman,T'Challa/Black Panther,3
+60,14,Doctor Strange,60,Benedict Cumberbatch,Doctor Stephen Strange,3
+61,14,Doctor Strange,61,Chiwetel Ejiofor,Baron Mordo,3
+62,14,Doctor Strange,62,Rachel McAdams,Dr. Christine Palmer,3
+63,14,Doctor Strange,63,Benedict Wong,Master Wong,3
+64,14,Doctor Strange,64,Mads Mikkelsen,Kaecilius,3
+65,14,Doctor Strange,65,Tilda Swinton,The Ancient One,3
+66,15,Guardians of the Galaxy Vol. 2,66,Chris Pratt,Peter Quill/Star-Lord,3
+67,15,Guardians of the Galaxy Vol. 2,67,Zoe Saldana,Gamora,3
+68,15,Guardians of the Galaxy Vol. 2,68,Dave Bautista,Drax the Destroyer,3
+69,15,Guardians of the Galaxy Vol. 2,69,Vin Diesel,Baby Groot,3
+70,15,Guardians of the Galaxy Vol. 2,70,Bradley Cooper,Rocket,3
+71,15,Guardians of the Galaxy Vol. 2,71,Michael Rooker,Yondu Udonta,3
+72,15,Guardians of the Galaxy Vol. 2,72,Kurt Russell,Ego,3
+73,15,Guardians of the Galaxy Vol. 2,73,Karen Gillan,Nebula,3
+74,15,Guardians of the Galaxy Vol. 2,74,Pom Klementieff,Mantis,3
+75,15,Guardians of the Galaxy Vol. 2,75,Elizabeth Debicki,Ayesha,3
+76,16,Spider-Man: Homecoming,76,Tom Holland,Peter Parker / Spider-Man,3
+77,16,Spider-Man: Homecoming,77,Michael Keaton,Adrian Toomes/Vulture,3
+78,16,Spider-Man: Homecoming,78,Zendaya,Michelle,3
+79,16,Spider-Man: Homecoming,79,Jon Favreau,Happy Hogan,3
+80,16,Spider-Man: Homecoming,80,Marisa Tomei,Aunt May,3
+81,16,Spider-Man: Homecoming,81,"Robert Downey, Jr.",Tony Stark/Iron Man,3
+82,17,Thor: Ragnarok,82,Chris Hemsworth,Thor,3
+83,17,Thor: Ragnarok,83,Tom Hiddleston,Loki,3
+84,17,Thor: Ragnarok,84,Cate Blanchett,Hela,3
+85,17,Thor: Ragnarok,85,Idris Elba,Heimdall,3
+86,17,Thor: Ragnarok,86,Jeff Goldblum,Grandmaster,3
+87,17,Thor: Ragnarok,87,Tessa Thompson,Valkyrie,3
+88,17,Thor: Ragnarok,88,Karl Urban,Skurge,3
+89,17,Thor: Ragnarok,89,Mark Ruffalo,Bruce Banner/Hulk,3
+90,17,Thor: Ragnarok,90,Anthony Hopkins,Odin,3
+91,18,Black Panther,91,Chadwick Boseman,T’Challa/Black Panther,3
+92,18,Black Panther,92,Michael B. Jordan,Erik Killmonger,3
+93,18,Black Panther,93,Lupita Nyong'o,Nakia,3
+94,18,Black Panther,94,Danai Gurira,Okoye,3
+95,18,Black Panther,95,Martin Freeman,Everett K. Ross,3
+96,18,Black Panther,96,Angela Bassett,Ramonda,3
+97,18,Black Panther,97,Forest Whitaker,Zuri,3
+98,18,Black Panther,98,Andy Serkis,Ulysses Klaue,3
+99,18,Black Panther,99,Daniel Kaluuya,W’Kabi,3
+100,18,Black Panther,100,Letitia Wright,Shuri,3
+101,19,Avengers: Infinity Warr,101,"Robert Downey, Jr.",Tony Stark/Iron Man,3
+102,19,Avengers: Infinity Warr,102,Chris Hemsworth,Thor,3
+103,19,Avengers: Infinity Warr,103,Mark Ruffalo,Bruce Banner/Hulk,3
+104,19,Avengers: Infinity Warr,104,Chris Evans,Steve Rogers,3
+105,19,Avengers: Infinity Warr,105,Scarlett Johansson,Natasha Romanoff/Black Widow,3
+106,19,Avengers: Infinity Warr,106,Benedict Cumberbatch,Stephen Strange,3
+107,19,Avengers: Infinity Warr,107,Don Cheadle,James Rhodes / War Machine,3
+108,19,Avengers: Infinity Warr,108,Tom Holland,Peter Parker/Spider-Man,3
+109,19,Avengers: Infinity Warr,109,Chadwick Boseman,T'Challa / Black Panther,3
+110,19,Avengers: Infinity Warr,110,Paul Bettany,Vision,3
+111,19,Avengers: Infinity Warr,111,Elizabeth Olsen,Wanda Maximoff/Scarlet Witch,3
+112,19,Avengers: Infinity Warr,112,Sebastian Stan,Bucky Barnes/Winter Soldier,3
+113,19,Avengers: Infinity Warr,113,Danai Gurira,Okoye,3
+114,19,Avengers: Infinity Warr,114,Letitia Wright,Shuri,3
+115,19,Avengers: Infinity Warr,115,Dave Bautista,Drax the Destroyer,3
+116,19,Avengers: Infinity Warr,116,Zoe Saldana,Gamora,3
+117,19,Avengers: Infinity Warr,117,Josh Brolin,Thanos,3
+118,19,Avengers: Infinity Warr,118,Chris Pratt,Peter Quill/Star-Lord,3
+119,19,Avengers: Infinity Warr,119,Benedict Wong,Wong,3
+120,19,Avengers: Infinity Warr,120,Pom Klementieff,Mantis,3
+121,19,Avengers: Infinity Warr,121,Karen Gillan,Nebula,3
+122,19,Avengers: Infinity Warr,122,Vin Diesel,Groot,3
+123,19,Avengers: Infinity Warr,123,Bradley Cooper,Rocket Raccoon,3
+124,20,Ant-Man and the Wasp,124,Paul Rudd,Scott Lang/Ant-Man,3
+125,20,Ant-Man and the Wasp,125,Evangeline Lilly,Hope van Dyne/The Wasp,3
+126,20,Ant-Man and the Wasp,126,Michael Peña,Luis,3
+127,20,Ant-Man and the Wasp,127,Walton Goggins,Sonny Burch,3
+128,20,Ant-Man and the Wasp,128,Hannah John-Kamen,Ava Starr/Ghost,3
+129,20,Ant-Man and the Wasp,129,Michelle Pfeiffer,Janet van Dyne,3
+130,20,Ant-Man and the Wasp,130,Laurence Fishburne,Dr. Bill Foster/Goliath,3
+131,20,Ant-Man and the Wasp,131,Michael Douglas,Dr. Hank Pym,3
+132,21,Captain Marvel,132,Brie Larson,Carol Danvers/Vers/Captain Marvel,3
+133,21,Captain Marvel,133,Samuel L. Jackson,Nick Fury,3
+134,21,Captain Marvel,134,Ben Mendelsohn,Talos/Keller,3
+135,21,Captain Marvel,135,Djimon Hounsou,Korath the Pursuer,3
+136,21,Captain Marvel,136,Lee Pace,Ronan the Accuser,3
+137,21,Captain Marvel,137,Lashana Lynch,Maria Rambeau,3
+138,21,Captain Marvel,138,Gemma Chan,Minn-Erva,3
+139,21,Captain Marvel,139,Annette Bening,Supreme Intelligence,3
+140,21,Captain Marvel,140,Clark Gregg,Agent Phil Coulson,3
+141,22,Avengers: Endgame,141,"Robert Downey, Jr.",Tony Stark/Iron Man,3
+142,22,Avengers: Endgame,142,Chris Evans,Steve Rogers/Captain America,3
+143,22,Avengers: Endgame,143,Mark Ruffalo,Bruce Banner/Hulk,3
+144,22,Avengers: Endgame,144,Chris Hemsworth,Thor,3
+145,22,Avengers: Endgame,145,Scarlett Johansson,Natasha Romanoff/Black Widow,3
+146,22,Avengers: Endgame,146,Jeremy Renner,Clint Barton/Hawkeye,3
+147,22,Avengers: Endgame,147,Don Cheadle,James “Rhodey” Rhodes/War Machine,3
+148,22,Avengers: Endgame,148,Paul Rudd,Scott Lang/Ant-Man,3
+149,22,Avengers: Endgame,149,Brie Larson,Carol Danvers/Captain Marvel,3
+150,22,Avengers: Endgame,150,Karen Gillan,Nebula,3
+151,22,Avengers: Endgame,151,Danai Gurira,Okoye,3
+152,22,Avengers: Endgame,152,Bradley Cooper,Rocket,3
+153,22,Avengers: Endgame,153,Josh Brolin,Thanos,3
+154,22,Avengers: Endgame,154,Benedict Wong,Wong,3
+155,22,Avengers: Endgame,155,Jon Favreau,Happy Hogan,3
+156,22,Avengers: Endgame,156,Gwyneth Paltrow,Pepper Potts,3
+157,22,Avengers: Endgame,157,Evangeline Lilly,Hope van Dyne/The Wasp,3
+158,22,Avengers: Endgame,158,Benedict Cumberbatch,Dr. Stephen Strange,3
+159,22,Avengers: Endgame,159,Tom Holland,Peter Parker/Spider-Man,3
+160,22,Avengers: Endgame,160,Chris Pratt,Peter Quill/Star-Lord,3
+161,22,Avengers: Endgame,161,Dave Bautista,Drax the Destroyer,3
+162,22,Avengers: Endgame,162,Sebastian Stan,Bucky Barnes/Winter Soldier,3
+163,22,Avengers: Endgame,163,Terry Notary,Groot,3
+164,22,Avengers: Endgame,164,Anthony Mackie,Sam Wilson/Falcon,3
+165,22,Avengers: Endgame,165,Tom Hiddleston,Loki,3
+166,22,Avengers: Endgame,166,Letitia Wright,Shuri,3
+167,22,Avengers: Endgame,167,Samuel L. Jackson,Nick Fury,3
+168,22,Avengers: Endgame,168,Pom Klementieff,Mantis,3
+169,22,Avengers: Endgame,169,Paul Bettany,Vision,3
+170,22,Avengers: Endgame,170,Elizabeth Olsen,Wanda Maximoff/Scarlet Witch,3
+171,22,Avengers: Endgame,171,Zoe Saldana,Gamora,3
+172,22,Avengers: Endgame,172,Chadwick Boseman,T’Challa/Black Panther,3
+173,23,Spider-Man: Far From Home,173,Tom Holland,Peter Parker/Spider-Man,3
+174,23,Spider-Man: Far From Home,174,Samuel L. Jackson,Nick Fury,3
+175,23,Spider-Man: Far From Home,175,Zendaya,Michelle “MJ” Jones,3
+176,23,Spider-Man: Far From Home,176,Jake Gyllenhaal,Quentin Beck/Mysterio,3
+177,24,Black Widow,177,Scarlett Johansson,Natasha Romanoff/Black Widow,4
+178,24,Black Widow,178,Florence Pugh,Yelena Belova,4
+179,24,Black Widow,179,Rachel Weisz,Melina,4
+180,24,Black Widow,180,David Harbour,Alexei/Red Guardian,4
+181,24,Black Widow,181,Ray Winstone,Dreykov,4
+182,24,Black Widow,182,O.T. Fagbenle,Mason,4
+183,25,Shang-Chi and the Legend of the Ten Rings,183,Simu Liu,Shang-Chi,4
+184,26,Eternals,184,Kumail Nanjiani,Kingo,4
+185,26,Eternals,185,Angelina Jolie,Thena,4
+186,26,Eternals,186,Richard Madden,Ikaris,4
+187,26,Eternals,187,Salma Hayek,Ajak,4
+188,26,Eternals,188,Brian Tyree Henry,Phastos,4
+189,26,Eternals,189,Lauren Ridloff,Makkari,4
+190,26,Eternals,190,Barry Keoghan,Druig,4
+191,26,Eternals,191,Gemma Chan,Sersi,4
+192,26,Eternals,192,Lia McHugh,Sprite,4
+193,26,Eternals,193,Don Lee,Gilgamesh,4
+194,27,Spider-Man: No Way Home,194,Tom Holland,Peter Parker/Spider-Man,4
+195,28,Doctor Strange in the Multiverse of Madness,195,Benedict Cumberbatch,Dr. Stephen Strange,4
+196,28,Doctor Strange in the Multiverse of Madness,196,Elizabeth Olsen,Scarlett Witch,4
+197,28,Doctor Strange in the Multiverse of Madness,197,Chiwetel Ejiofor,Karl Mordo,4
+198,28,Doctor Strange in the Multiverse of Madness,198,Benedict Wong,Wong,4
+199,28,Doctor Strange in the Multiverse of Madness,199,Xochitl Gomez,America Chavez,4
+200,28,Doctor Strange in the Multiverse of Madness,200,Michael Stuhlbarg,Nicodemus West,4
+201,28,Doctor Strange in the Multiverse of Madness,201,Rachel McAdams,Dr. Christine Palmer,4
+202,29,Thor: Love and Thunder,202,Chris Hemsworth,Thor,4
+203,29,Thor: Love and Thunder,203,Christian Bale,Gorr the God Butcher,4
+204,29,Thor: Love and Thunder,204,Tessa Thompson,King Valkyrie,4
+205,29,Thor: Love and Thunder,205,Taika Waititi,Korg,4
+206,29,Thor: Love and Thunder,206,Russell Crowe,Zeus,4
+207,29,Thor: Love and Thunder,207,Natalie Portman,Jane Foster/Mighty Thor,4
+208,30,Black Panther: Wakanda Forever,208,Letitia Wright,Shuri,4
+209,30,Black Panther: Wakanda Forever,209,Lupita Nyong'o,Nakia,4
+210,30,Black Panther: Wakanda Forever,210,Danai Gurira,Okoye,4
+211,30,Black Panther: Wakanda Forever,211,Winston Duke,M’Baku,4
+212,30,Black Panther: Wakanda Forever,212,Dominique Thorne,Riri Williams/Ironheart,4
+213,30,Black Panther: Wakanda Forever,213,Florence Kasumba,Ayo,4
+214,30,Black Panther: Wakanda Forever,214,Michaela Coel,Aneka,4
+215,30,Black Panther: Wakanda Forever,215,Tenoch Huerta,Namor,4
+216,30,Black Panther: Wakanda Forever,216,Martin Freeman,Everett K. Ross,4
+217,30,Black Panther: Wakanda Forever,217,Angela Bassett,Ramonda,4
+218,31,Ant-Man and the Wasp: Quantumania,218,Paul Rudd,Scott Lang / Ant-Man,5
+219,31,Ant-Man and the Wasp: Quantumania,219,Evangeline Lilly,Hope van Dyne / Wasp,5
+220,31,Ant-Man and the Wasp: Quantumania,220,Jonathan Majors,Kang the Conqueror,5
+221,31,Ant-Man and the Wasp: Quantumania,221,Kathryn Newton,Cassie Lang,5
+222,31,Ant-Man and the Wasp: Quantumania,222,Bill Murray,Lord Krylar,5
+223,31,Ant-Man and the Wasp: Quantumania,223,Michelle Pfeiffer,Janet van Dyne,5
+224,31,Ant-Man and the Wasp: Quantumania,224,Michael Douglas,Dr. Hank Pym,5
+225,32,Guardians of the Galaxy Vol. 3,225,Chris Pratt,Peter Quill / Star-Lord,5
+226,32,Guardians of the Galaxy Vol. 3,226,Zoe Saldana,Gamora,5
+227,32,Guardians of the Galaxy Vol. 3,227,Dave Bautista,Drax the Destroyer,5
+228,32,Guardians of the Galaxy Vol. 3,228,Karen Gillan,Nebula,5
+229,32,Guardians of the Galaxy Vol. 3,229,Pom Klementieff,Mantis,5
+230,32,Guardians of the Galaxy Vol. 3,230,Vin Diesel,Groot,5
+231,32,Guardians of the Galaxy Vol. 3,231,Bradley Cooper,Rocket,5
+232,32,Guardians of the Galaxy Vol. 3,232,Sean Gunn,Kraglin Obfonteri/Young Rocket/Lamb-Shank,5
+233,32,Guardians of the Galaxy Vol. 3,233,Maria Bakalova,Cosmo the Spacedog,5
+234,33,The Marvels,234,Brie Larson,Carol Danvers / Captain Marvel,5
+235,33,The Marvels,235,Teyonah Parris,Monica Rambeau,5
+236,33,The Marvels,236,Samuel L. Jackson,Nick Fury,5
+237,33,The Marvels,237,Iman Vellani,Kamala Khan / Ms. Marvel,5
+238,34,Deadpool & Wolverine,238,Ryan Reynolds,Wade Wilson / Deadpool,5
+239,34,Deadpool & Wolverine,239,Hugh Jackman,James “Logan” Howlett / Wolverine,5
+240,35,Captain America: Brave New World,240,Anthony Mackie,Sam Wilson / Captain America,5
+241,35,Captain America: Brave New World,241,Danny Ramirez,Joaquin Torres / Falcon,5
+242,35,Captain America: Brave New World,242,Shira Haas,Ruth Bat-Seraph,5
+243,35,Captain America: Brave New World,243,Giancarlo Esposito,Sidewinder,5
+244,35,Captain America: Brave New World,244,Tim Blake Nelson,Samuel Sterns / Leader,5
+245,35,Captain America: Brave New World,245,Harrison Ford,President Thaddeus “Thunderbolt” Ross,5
+246,36,Thunderbolts*,246,Florence Pugh,Yelena Belova,5
+247,36,Thunderbolts*,247,Sebastian Stan,Bucky Barnes,5
+248,36,Thunderbolts*,248,David Harbour,Alexei Shostakov,5
+249,36,Thunderbolts*,249,Olga Kurylenko,Antonia Dreykov,5
+250,36,Thunderbolts*,250,Wyatt Russell,John Walker,5
+251,36,Thunderbolts*,251,Hannah John-Kamen,Ava Starr,5
+252,36,Thunderbolts*,252,Lewis James Pullman,Bob,5
+253,37,The Fantastic Four: First Steps,253,Pedro Pascal,Reed Richards/Mister Fantastic,6
+254,37,The Fantastic Four: First Steps,254,Vanessa Kirby,Sue Storm/Invisible Woman,6
+255,37,The Fantastic Four: First Steps,255,Joseph Quinn,Johnny Storm/Human Torch,6
+256,37,The Fantastic Four: First Steps,256,Ebon Moss-Bachrach,Ben Grimm/The Thing,6
+257,38,Avengers: Doomsday,257,"Robert Downey, Jr.",Doctor Doom,6
+258,39,Untitled Spider-Man: No Way Home sequel,258,NULL,NULL,6
+259,40,Avengers: Secret Wars,259,NULL,NULL,6
 
